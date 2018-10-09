@@ -1,0 +1,160 @@
+01/01/1900 ""
+01/01/1900 ""
+01/12/2006 "Fecha correcta"
+
+01/01/1900 ""
+01/01/1900 ""
+01/12/2006 "Fecha correcta"
+01/12/2006 "Fecha correcta"
+
+12/12/2006 "Fecha correcta"
+12/12/2006 "Fecha correcta"
+01/01/1900 ""
+12/12/2006 "Fecha correcta"
+
+12/12/2006 "Fecha correcta"
+05/01/1900 "Fecha correcta"
+01/03/2007 "Fecha correcta"
+01/01/1900 ""
+05/01/1900 "Fecha correcta"
+01/01/1900 ""
+
+12/12/2006 "Fecha correcta"
+13/12/2006 "Fecha correcta"
+14/12/2006 "Fecha correcta"
+14/12/2006 "Fecha correcta"
+
+14/12/1966 "Fecha correcta"
+13/12/1966 "Fecha correcta"
+12/12/1966 "Fecha correcta"
+12/12/1966 "Fecha correcta"
+01/01/1900 ""
+
+Procedimiento ModFecha incorrecto
+Procedimiento ModFecha correcto
+Procedimiento ModFecha incorrecto
+Procedimiento ModFecha incorrecto
+
+operador == funciona
+operador == funciona
+operador > funciona
+operador < funciona
+operador < funciona
+operador > funciona
+
+14/12/1966 "Fecha correcta"
+14/12/1966 "Otra fecha correcta"
+14/12/1966 ""
+
+Funcion Dia correcta
+Funcion Mes correcta
+Funcion Anyo correcta
+
+IGUALES
+MAYOR
+
+02/01/1900 "Fecha correcta"
+01/01/1900 "Fecha correcta"
+01/01/1900 ""
+01/01/1900 ""
+
+ModFecha NO EJECUTA
+01/01/1900 ""
+ModFecha NO EJECUTA
+ModFecha NO EJECUTA
+
+02/01/1900 "Fecha correcta"
+01/01/1900 ""
+
+02/01/1900 "Fecha correcta"
+01/01/1900 ""
+
+No hace nada
+
+[]
+[]
+[(1) 01/01/1900 "", (2) 01/01/1900 "", (3) 01/01/1900 "", (4) 01/01/1900 ""]
+
+0
+0
+4
+0
+
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+c=[]
+
+a=[(1) 01/01/1900 "", (2) 01/01/1900 "", (3) 01/03/2006 "tres"]
+1
+b=[(1) 01/01/2006 "uno", (2) 01/01/1900 "", (3) 01/03/2006 "tres"]
+2
+c=[]
+0
+
+a=[(1) 01/01/1900 "", (2) 01/01/1900 "", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno", (2) 01/01/1900 "", (3) 01/03/2006 "tres"]
+No existe
+Existe
+
+a=[(1) 01/01/1900 "", (2) 01/01/1900 "", (3) 01/01/1900 ""]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno"]
+
+a=[(1) 01/01/1900 "", (2) 01/01/1900 "", (3) 01/01/1900 ""]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+a=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres"]
+b=[(1) 01/01/2006 "uno", (2) 01/02/2006 "dos", (3) 01/03/2006 "tres", (4) 01/01/1900 "", (5) 01/01/1900 ""]
+
+No hace nada
+
+<>
+<14/12/1966 "Fecha Correcta">
+<01/01/1954 "Fecha Correcta" 14/12/1966 "Fecha Correcta">
+
+0
+1
+
+<>
+<01/01/1900 "" 01/01/2007 "Fecha2">
+<01/01/1900 "">
+
+<01/01/1900 "" 01/01/2007 "Fecha2">
+<01/01/1900 "" 01/01/2007 "Fecha2">
+
+No hace nada
+
+Direccion vacia
+Direccion vacia
+l1 = <>
+
+l2 = <01/01/1977 "uno" 04/01/1977 "uno" 01/01/1980 "dos">
+l1 = <01/01/1977 "uno" 04/01/1977 "uno" 01/01/1980 "dos">
+
+Lista vacia
+Lista no vacia
+
+Lista vacia
+01/01/1980 "dos"
+01/01/1977 "uno"
+l1 = <01/01/1977 "uno" 01/01/1980 "dos">
+Lista no vacia
+
+<15/10/2006 "mensaje 6">
+
+<14/10/2006 "mensaje 5">
+10/10/2006 "mensaje 1"
+13/10/2006 "mensaje 4"
+
+14/10/2006 "mensaje 5"
+
+<10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2" 12/10/2006 "mensaje 3" 13/10/2006 "mensaje 4">
+
+<10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2">
